@@ -25,9 +25,6 @@ public class Program {
         Orange orange1 = new Orange();
         Apple apple1 = new Apple();
         System.out.println("Вес апельсина: " + orange1.getWeight());
-
-        List<Box> boxOrange ;
-        Box<Apple> boxApple = new Box<>();
-
+        System.out.println("Вес яблока: " + apple1.getWeight());
     }
 }

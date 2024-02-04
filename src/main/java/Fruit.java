@@ -1,6 +1,6 @@
 public abstract class Fruit {
 
-    private float weight;
+    private float  weight;
 
     public float getWeight() {
         return weight;
